@@ -1,0 +1,168 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Aliquot</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/css/main2.css" />
+		<link rel="stylesheet" type="text/css" href="/css/bootstrap.css">
+        <link rel="icon" href="/images/ali-transparent.jpg">
+
+		<!-- Latest compiled and minified CSS -->
+		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+		<!--Font awesome icons  -->
+		<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+		
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">
+
+	
+	</head>
+	<style>
+    #contact-header {
+        font-size: 3em;
+        font-family: "Montserrat" ;
+        text-align: center;
+        padding-bottom:20px;
+    }
+
+    #contact-info-req{
+        height: 200px;
+        width: 500px;
+        background-color: #f9f9f9;
+        padding:20px;
+        margin-left: 30%;
+    }
+    #contact-info-req p{
+        font-size: 1.2em;
+        font-weight: 400;
+        text-align: center;
+        padding: 10px;
+    }
+</style>
+  <body style="background-color: #a11d2b; ">
+
+<header id="header">
+    <div class="">
+
+        <nav class="navbar navbar-expand-md navbar-light bg-faded ">
+
+            <!--Name of brand  -->
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <!--Hamburger icon  -->
+            <i class="fa fa-bars" style="background-color: #000;"></i>
+            </button>
+            <a class="navbar-brand" href="/"><img src="/images/logo.png" alt="" width="200px;" height="70px;" ></a>
+
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <!--Items in the navigation bar moved to the right by adding margin on the left --> 
+                <ul class="navbar-nav ml-auto" style="margin-right:10%;">
+                    <li> <a class="dropdown-item" href="https://aliquot-ltd.com/about">about us</a> </li>
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Industries
+                    </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/artificial_intelligence">Artificial Intelligence</a>
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/economics">Economics</a>
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/emergency_disaster">Emergency and Disaster Response</a>
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/finance">Finance</a>
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/government">Government</a>
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/software_apps">Software and Apps</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Services
+                    </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/analytics">Analytics</a>
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/deep_learning">Deep Learning</a>
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/data_visualization">Data Visualisation</a>
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/monitoring_evaluation">Monitering and evaluation</a>
+                            <a class="dropdown-item" href="https://aliquot-ltd.com/surveys">Surveys</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+    </div>
+</header>
+<!-- Banner -->
+	<section id="banner">
+		<div class="inner">
+			<h1>COMPLEXITY.&nbspNAVIGATED.</h1>		
+				
+		</div>
+	</section>
+
+<!-- Footer -->
+<div id="banner-footer">
+    <div class= "col-md-10 offset-1" >             
+        <div class="row footer-content">
+
+            <div class="col-md-4">
+                <h3>What we do</h3>
+                <div class="row">
+                    <p>We offer clients a strong suite of analytical and technical capabilities to understand and tackle complex problems, enabling them to generate value by taking advantage of our insight.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4" style="padding-left: 5%">
+                <h3>Industries</h3>
+                <div class="row">
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/artificial_intelligence"><i class="fa fa-cloud"></i>&nbsp Artificial Intelligence</a>
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/economics"><i class="fa fa-euro-sign"></i>&nbsp Economics</a>
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/emergency_disaster"><i class="fa fa-wheelchair"></i>Emergency and Disaster Response</a>
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/finance"><i class="fa fa-dollar-sign"></i>&nbsp Finance</a>
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/government"><i class="fa fa-balance-scale"></i> &nbsp Government</a>
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/software_apps"><i class="fa fa-code"></i> &nbsp Software and Apps</a>
+                </div>  
+            </div>
+
+            <div class="col-md-4" >
+                <h3>Services</h3>
+                <div class="row">
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/analytics"> <i class="fa fa-chart-bar"></i>&nbsp Analytics</a>
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/deep_learning"> <i class="fa fa-eye"></i>&nbsp Deep Learning</a>
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/data_visualization"> <i class="fa fa-database"></i>&nbsp Data Visualisation</a>
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/monitoring_evaluation"> <i class="fa fa-hourglass-half"></i>&nbsp Monitoring and evaluation</a>
+                    <a class="dropdown-item" href="https://aliquot-ltd.com/surveys"> <i class="fa fa-file"></i>&nbsp Surveys</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="inner">
+        <div class="copyright" style="text-align:center;">
+              <br>
+            <br>
+            &copy; Aliquot Ltd. 2020.
+            <br>
+            <br>
+          
+            <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=kUK5WfBuYNNGqsDQ5fF0mKrslo5iaVkPEO4frniaH8Ee2jrTM86gegHrrwon"></script></span>
+        </div>
+    </div>
+</div> 
+
+        <!-- Scripts -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+
+            <script src="/js/main.js"></script> 
+        <!-- Latest compiled and minified JavaScript -->
+      <script src="public/js/boostrap.bundle.min.js"></script>
+            
+
+    </body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'}),_trfd.push({'ap':'cpsh'},{'server':'a2plcpnl0598'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js'></script></html>
